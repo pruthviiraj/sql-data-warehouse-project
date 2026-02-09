@@ -1,12 +1,12 @@
 # Data Warehouse Project 
 
-Welcome to the **Data Warehouse Project** — an end-to-end **data engineering solution** built using **SQL Server** and **T-SQL**. This project demonstrates how to design and implement a **modern data warehouse** that transforms raw source data into structured, business-ready datasets using a **layered Medallion Architecture**. It focuses on **data ingestion**, **transformation**, **data modeling**, and **data quality validation**, following real-world best practices used in enterprise data engineering.  
+Welcome to the **Data Warehouse Project** an end-to-end **data engineering solution** built using **SQL Server** and **T-SQL**. This project demonstrates how to design and implement a **modern data warehouse** that transforms raw source data into structured, business-ready datasets using a **layered Medallion Architecture**. It focuses on **data ingestion**, **transformation**, **data modeling**, and **data quality validation**, following real-world best practices used in enterprise data engineering.  
 
 ---
 
 ## 🏗️ Data Architecture  
 
-The solution is designed using the **Medallion Architecture** (Bronze → Silver → Gold) — a layered framework for building reliable and scalable data pipelines.  
+The solution is designed using the **Medallion Architecture** (Bronze → Silver → Gold), a layered framework for building reliable and scalable data pipelines.  
 
 ![Data Architecture](docs/data_architecture.png)
 
