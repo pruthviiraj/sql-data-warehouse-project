@@ -1,6 +1,6 @@
-# Data Warehouse Project 
+# CRM and ERP Sales Data Warehouse
 
-Welcome to the **Data Warehouse Project** an end-to-end **data engineering solution** built using **SQL Server** and **T-SQL**. This project demonstrates how to design and implement a **modern data warehouse** that transforms raw source data into structured, business-ready datasets using a **layered Medallion Architecture**. It focuses on **data ingestion**, **transformation**, **data modeling**, and **data quality validation**, following real-world best practices used in enterprise data engineering.  
+Welcome to the **CRM and ERP Sales Data Warehouse Project** an end-to-end **data engineering solution** built using **SQL Server** and **T-SQL**. This project demonstrates how to design and implement a **modern data warehouse** that transforms raw source data into structured, business-ready datasets using a **layered Medallion Architecture**. It focuses on **data ingestion**, **transformation**, **data modeling**, and **data quality validation**, following real-world best practices used in enterprise data engineering.  
 
 ---
 
